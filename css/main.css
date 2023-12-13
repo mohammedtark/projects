@@ -1,0 +1,13 @@
+.tests h1 {
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+}
+button {
+  width: 250px;
+  height: 80px;
+  background-color: blue;
+  cursor: auto;
+}
+button:hover {
+  background-color: #008000;
+  cursor: auto;
+}
